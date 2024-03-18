@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    margin: 5px;
+    padding: 10px;
+}
+.desafio1{
+    color: orange;
+    text-align: justify;
+}
+
+#lista1{
+    list-style-type: circle;
+    color: #0000ff;
+    background-color: rgba(0, 0, 0, 0.336);
+}
+
+#lista2{
+    list-style-type: lower-alpha;
+    color: #0000ff;
+    background-color: rgba(255, 255, 0, 0.301);
+}
